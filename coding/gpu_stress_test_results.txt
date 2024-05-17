@@ -1,0 +1,4 @@
+GPU stress test results:
+Execution time: 1.89 seconds
+Array size: 1048576
+Number of iterations: 1000
